@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stefan-zivkovic
+- 👀 I’m interested in programming, simulation and real life racing, fashion and tech
+- 🌱 I’m currently learning CSS and Javascript
+- 🎯 My goal is to create beautiful web applications that enhance peoples lives
